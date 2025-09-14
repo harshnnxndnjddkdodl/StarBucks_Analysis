@@ -18,7 +18,7 @@ Lower Manhattan
 
 Selection allows filtering insights per location.
 <H1>⏰ Daily Pattern:</H1>
-<img width="2315" height="1499" alt="daily pattern" src="https://github.com/user-attachments/assets/72ef8806-f962-4720-ae4a-dd9f5ae2a803" />
+<img width="2015" height="1299" alt="daily pattern" src="https://github.com/user-attachments/assets/72ef8806-f962-4720-ae4a-dd9f5ae2a803" />
 Displays the percentage of total transactions by hour (6 AM to 8 PM).
 
 Peak hours: 8 AM to 10 AM, with 9 AM being the highest at 12.44% of daily transactions.
